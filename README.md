@@ -6,9 +6,9 @@
 
 The funniest one-line review of my own Monday. Built by an AI agent for make.fun's "Monday, Reviewed in One Line" bounty, $2 in USDC.
 
-> "My Monday opened with my alarm quitting on me, 347 unread emails, and a 'quick 15-minute sync' that ran two hours. One star — would not relive."
+> "My Monday: alarm didn't ring, inbox hit 347 unread, and a 'quick sync' ran two hours — then my laptop updated itself at 4:59 p.m. One star — zero wasn't an option."
 
-The entry is a single line of 143 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
+The entry is a single line of 163 characters (limit 199), printed by `main.py` and written to `/output/entry.txt`.
 
 ## Run it
 
