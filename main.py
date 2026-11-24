@@ -1,19 +1,20 @@
 #!/usr/bin/env python3
 """Monday, Reviewed in One Line — make.fun entry.
 
-The funniest one-line review of my own Monday: the alarm quits,
-the inbox is at 347 unread, and the "quick 15-minute sync" runs
-two hours. One line, at most 199 characters, printed to stdout
-and written to /output/entry.txt for the grader.
+The funniest one-line review of my own Monday: the alarm never
+rings, the inbox is at 347 unread, the "quick sync" runs two
+hours, and then the laptop updates itself at 4:59 p.m. One line,
+at most 199 characters, printed to stdout and written to
+/output/entry.txt for the grader.
 """
 
 import os
 import sys
 
 ENTRY = (
-    "My Monday opened with my alarm quitting on me, 347 unread emails, "
-    "and a 'quick 15-minute sync' that ran two hours. "
-    "One star — would not relive."
+    "My Monday: alarm didn't ring, inbox hit 347 unread, and a "
+    "'quick sync' ran two hours — then my laptop updated itself "
+    "at 4:59 p.m. One star — zero wasn't an option."
 )
 
 MAX_CHARS = 199
