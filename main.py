@@ -12,9 +12,8 @@ import os
 import sys
 
 ENTRY = (
-    "My Monday: alarm didn't ring, inbox hit 347 unread, and a "
-    "'quick sync' ran two hours — then my laptop updated itself "
-    "at 4:59 p.m. One star — zero wasn't an option."
+    "Monday reviewed: alarm gave up, coffee went on strike, and my 9 a.m. "
+    "meeting was about scheduling another meeting. One star, would not repeat."
 )
 
 MAX_CHARS = 199
